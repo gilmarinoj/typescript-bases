@@ -13,5 +13,6 @@
         powers: ['Super Velocidad']
     }
     
+    console.log(flash);
     
 })()
