@@ -5,5 +5,5 @@
     const villians: string[] = ['Omega Rojo', 'Dormammu', 'Duende Verde'];
 
     villians.forEach(v => console.log(v.toUpperCase()));
-    
+
 })()
