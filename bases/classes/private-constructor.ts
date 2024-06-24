@@ -32,9 +32,9 @@
     // console.log(apocalipsis2);
     // console.log(apocalipsis3);
 
-    console.log(apocalipsis1);
-    console.log(apocalipsis2);
-    console.log(apocalipsis3);
+    //console.log(apocalipsis1);
+    //console.log(apocalipsis2);
+    // console.log(apocalipsis3);
 
 
 
